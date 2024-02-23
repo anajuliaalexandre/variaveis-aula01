@@ -1,0 +1,16 @@
+texto endereco;
+texto telefone;
+texto salario
+texto cpf
+real preco
+real temperatura
+booleana casado
+data nascimento
+booleana vacinado
+real preco_gasolina
+real litros_gasolina
+real preco_pao
+real total_compras
+texto idade
+ data data_contrato
+texto nivel_escolaridade
